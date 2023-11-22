@@ -1,0 +1,8 @@
+{
+  "name": "reactme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "da22ef39"
+}
